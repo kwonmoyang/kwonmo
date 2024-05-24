@@ -1,1 +1,1 @@
-from o9dummyfolder.Test import *
+from o9dummyfolder.common import *
