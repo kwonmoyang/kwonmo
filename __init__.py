@@ -1,1 +1,1 @@
-from o9dummyfolder.Test import *
+import Test
