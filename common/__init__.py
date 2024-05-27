@@ -1,1 +1,1 @@
-from o9dummyfolder.common import *
+from common.common import *
